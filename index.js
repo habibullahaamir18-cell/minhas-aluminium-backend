@@ -25,6 +25,7 @@ const PORT = process.env.PORT || 5000;
 // Middleware
 // Middleware
 const allowedOrigins = [
+    'https://minhas-aluminium-nqd6.vercel.app',
     'https://minhas-aluminium-oq61.vercel.app',
     'https://minhas-aluminium.vercel.app',
     'http://localhost:5173',
